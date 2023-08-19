@@ -6,18 +6,18 @@
 #include <TimeLib.h> 
 
 /* 1. Define the WiFi credentials */
-#define WIFI_SSID "swarnagouri"
-#define WIFI_PASSWORD "swarnagouri"
+#define WIFI_SSID "XXXXX"
+#define WIFI_PASSWORD "XXXXX"
 
 /* 2. Define the API Key */
-#define API_KEY "AIzaSyBImw-3ycuf8TxblH2upcKiGnzXgpfJnbI"
+#define API_KEY "XXXXX-XXXXX"
 
 /* 3. Define the project ID */
 #define FIREBASE_PROJECT_ID "water-alarm-swarnagouri"
 
 /* 4. Define the user Email and password that alreadey registerd or added in your project */
-#define USER_EMAIL "swarnagouri@sirsi.com"
-#define USER_PASSWORD "swarnagouri"
+#define USER_EMAIL "XXXXX"
+#define USER_PASSWORD "XXXXX"
 
 //Define Firebase Data object
 FirebaseData fbdo;
